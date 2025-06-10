@@ -1,2 +1,2 @@
-# Ai-Bootcamp-
-This Ai Bootcamp is a undertaken at G.L. Bajaj College of Technology and Management 
+# Ai-Bootcamp
+This AI Bootcamp is undertaken at G.L. Bajaj College of Technology and Management 
